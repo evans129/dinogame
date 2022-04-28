@@ -3,5 +3,9 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dino_game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/desktop-tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dinogame" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dinogameFlutter" vcs="Git" />
   </component>
 </project>
