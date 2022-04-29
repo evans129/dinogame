@@ -4,4 +4,4 @@ A simple chrome dinosaur game build with flutter.
 
 ## Gameplay Preview
 
-![](gameplay.gif "Gameplay")
+![error loading](gameplay.gif "Gameplay")
